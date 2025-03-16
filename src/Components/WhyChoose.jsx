@@ -4,9 +4,9 @@ import { Link } from 'react-router-dom';
 function WhyChoose() {
   return (
     <section id="why-choose">
-      <h1>Pourquoi choisir ZSB Agency ?</h1>
+      <h1>Pourquoi choisir 360 Host ?</h1>
       <p className="intro-text">
-        Découvrez pourquoi ZSB Agency est le partenaire idéal pour maximiser vos revenus locatifs tout en simplifiant la gestion de vos biens.
+        Découvrez pourquoi 360 Host est le partenaire idéal pour maximiser vos revenus locatifs tout en simplifiant la gestion de vos biens.
       </p>
       <div className="features">
         <div className="feature">
