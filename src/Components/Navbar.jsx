@@ -35,7 +35,7 @@ function Navbar() {
           <a href="#features">Nos Offres</a>
         </li>
         <li>
-          <a href="#why-choose">ZSB agency</a>
+          <a href="#why-choose">360 Host</a>
         </li>
         <li>
           <a href="#footer">A propos</a>
