@@ -12,8 +12,7 @@ function Features() {
     <div id="features">
       <h1>Service complet de gestion de location</h1>
       <p>
-        Lorem ipsum dolor, sit amet consectetur adipisicing elit. Numquam
-        architecto esse.
+       Avec notre offre 360°, nous gérons tous les aspects de votre logement
       </p>
       <div className="a-container">
         <Featuresbox image={fimage1} title="Gestion en ligne" />
