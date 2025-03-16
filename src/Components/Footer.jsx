@@ -27,10 +27,10 @@ function Footer() {
           </ul>
         </div>
         <div className="footer-socials">
-          <a href="https://www.linkedin.com/company/360host/" target="_blank" rel="noopener noreferrer">
+          <a href="https://www.linkedin.com/company/360host/" target="_blank">
             <FaLinkedin />
           </a>
-          <a href="https://www.instagram.com/360host.fr/" target="_blank" rel="noopener noreferrer">
+          <a href="https://www.instagram.com/360host.fr/" target="_blank">
             <FaInstagram />
           </a>
         </div>
