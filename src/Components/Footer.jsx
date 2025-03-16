@@ -7,8 +7,7 @@ function Footer() {
       <div className="footer-content">
         <div className="footer-section">
           <h3>Louez votre logement quand vous voulez !</h3>
-          <p>Email: client@example.com</p>
-          <p>Téléphone: +33 1 86 76 12 82</p>
+          <p>Email: 360hostcontact@gmail.com</p>
         </div>
         <div className="footer-section">
           <h3>POUR NOUS CONNAÎTRE</h3>
@@ -16,26 +15,24 @@ function Footer() {
             <li><a href="#">Tarifs</a></li>
             <li><a href="#">Services</a></li>
             <li><a href="#">Qui sommes-nous ?</a></li>
-            <li><a href="#">Nous rejoindre</a></li>
             <li><a href="#">Confidentialité</a></li>
             <li><a href="#">Mentions légales</a></li>
             <li><a href="#">Conditions d'utilisation</a></li>
-            <li><a href="#">Devenez partenaire</a></li>
           </ul>
         </div>
         <div className="footer-section">
           <h3>BESOIN DE PLUS D'INFOS ?</h3>
           <ul>
             <li><a href="#">Foire aux questions</a></li>
-            <li><a href="#">Blog</a></li>
-            <li><a href="#">Presse</a></li>
           </ul>
         </div>
         <div className="footer-socials">
-          <FaFacebook />
-          <FaTwitter />
-          <FaLinkedin />
-          <FaInstagram />
+          <a href="https://www.linkedin.com/company/360host/" target="_blank" rel="noopener noreferrer">
+            <FaLinkedin />
+          </a>
+          <a href="https://www.instagram.com/360host.fr/" target="_blank" rel="noopener noreferrer">
+            <FaInstagram />
+          </a>
         </div>
       </div>
     </footer>
