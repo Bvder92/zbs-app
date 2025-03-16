@@ -659,7 +659,7 @@ nav .menu-btn,
   .footer-section a {
     margin-bottom: 10px;
     font-size: 16px;
-    color: #ccc; 
+    color: white; 
     text-decoration: none;
   }
   
@@ -669,12 +669,12 @@ nav .menu-btn,
   
   .social-icons {
     display: flex;
-    font-size: 24px;
+    font-size: 50px;
   }
   
   .social-icons > * {
     margin-right: 15px;
-    color: #fff; 
+    color: grey; 
     cursor: pointer;
   }
   
